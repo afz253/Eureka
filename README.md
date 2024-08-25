@@ -1,7 +1,3 @@
-Here’s a README file for the provided PRM implementation code:
-
----
-
 # PRM Algorithm for 2D Motion Planning
 
 ## Overview
